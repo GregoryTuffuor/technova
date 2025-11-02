@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>WELCOME, TO TECHNOVA SOLUTIONS </h1>
+	<h2>TechNova Performances 2023</h2>
+	<p>TechNova demonstrated a strong year in customer expansion, acquiring 726 new customers while maintaining an exceptionally low average churn rate of 0.82%. Net customer growth of 585 reinforces the company’s strong market presence and the value recognized by existing clients. These achievements form a solid foundation for ongoing revenue generation and increased market share.
+Operational productivity remained steady, with teams delivering a total of 467 completed projects across the year. The average revenue per employee of approximately $10,540 suggests reliable workforce contribution, although efficiency enhancements could increase output and financial return per resource. Expense analysis revealed notable fluctuations, with annual costs totaling $9.46 million. Higher spending toward year-end signals investment aimed at supporting growth, but also highlights the need for improved expense management to protect profit margins. While the company faces challenges such as cost volatility and the need to refine productivity utilization, significant opportunities lie ahead. Strengthening financial planning, expanding automation, and pursuing higher-value service offerings can improve profitability and accelerate strategic expansion.
+Overall, TechNova Solutions enters the next fiscal year with strong operational capabilities, a loyal and growing customer base, and promising growth potential. This report concludes with targeted recommendations designed to elevate performance, support sustainable scaling, and reinforce TechNova’s position in a competitive technology market.
+
+</p>
+<h3>SUMMARY</h3>
+<table border="1">
+<tr>
+	<th>Month</th>
+	<th>Expenses</th>
+	<th>Revenue</th>
+	<th>Profit</th>
+	<th>Profit Margin</th>
+	<th>Active users</th>
+	<th>No. of New Customers</th>
+	<th>Churned Customers</th>
+	<th>Customer Churned rate</th>
+	<th>Customer Aquisition</th>
+	<th>Net Customer Growth</th>
+	<th>Project Completed</th>
+	<th>Employee Count</th>
+	<th>Revenue per Employee</th>
+	<th>Project Per Employee</th>
+	<th>YoY Growth Rate</th>
+
+
+</tr>
+<tr>
+	<td>jan-23</td>
+	<td>$820,000</td>
+	<td>$615,000</td>
+	<td>$205,000</td>
+	<td>  0.25</td>
+	<td>1200</td>
+	<td>45</td>
+	<td>12</td>
+	<td>N</td>
+	<td>$13,666.67</td>
+	<td> 33</td>
+	<td>28</td>
+	<td>85</td>
+	<td>9,647.06</td>
+	<td>0.329</td>
+	<td>0.025</td>
+
+
+</tr>
+<tr>
+   <td>Feb-23</td>
+   <td>$820,000</td>
+   <td>$590,000</td>
+   <td>$195,000</td>
+   <td>0.248407643</td>
+   <td>1223</td>
+   <td>38</td>
+   <td>15</td>
+   <td>0.0125</td>
+   <td>$15,526</td>
+   <td>23</td>
+   <td>25</td>
+   <td>85</td>
+   <td>$9,022.99</td>
+   <td>0.287</td>
+   <td>-0.01258</td>
+
+</tr>
+<tr>
+	<td>Mar-23</td>
+	<td>$910,000</td>
+	<td>$683,000</td>
+	<td>$227,000</td>
+	<td>0.249450549</td>
+	<td>1265</td>
+	<td>52</td>
+	<td>10</td>
+	<td>0.008176615</td>
+	<td>$13,134.62</td>
+	<td>42</td>
+	<td>32</td>
+	<td>90</td>
+	<td>$10,111.11</td>
+	<td>0.356</td>
+	<td>123457</td>
+
+</tr>
+<tr>
+	<td>Apr-23</td>
+	<td>$888,000</td>
+	<td>$660,000</td>
+	<td>$220,000</td>
+	<td>0.25</td>
+	<td>1299</td>
+	<td>14</td>
+	<td>0.0110671415</td>
+	<td>$13,750.00</td>
+	<td>34</td>
+	<td>30</td>
+	<td>92</td>
+	<td>$9,565.22</td>
+	<td>0.326</td>
+	<td>0.205479</td>
+	<td>0.205479</td>
+</tr>
+<tr>
+	<td>Jun-23</td>
+	<td>$1,020,000</td>
+	<td>$765,000</td>
+	<td>$255,000</td>
+	<td>0.25</td>
+	<td>1394</td>
+	<td>60</td>
+	<td>9</td>
+	<td>0.006701415</td>
+	<td>$12,750.00</td>
+	<td>51</td>
+	<td>38</td>
+	<td>98</td>
+	<td>$10,408.16</td>
+	<td>0.388</td>
+	<td>0.02</td>
+
+	<tr>
+		<td>Jul-23</td>
+		<td>$1,100,000</td>
+		<td>$825,000</td>
+		<td>$275,000</td>
+		<td>0.25</td>
+		<td>1446</td>
+		<td>65</td>
+		<td>13</td>
+		<td>0.009325681</td>
+		<td>$12,692.31</td>
+		<td>52</td>
+		<td>42</td>
+		<td>100</td>
+		<td>11,000.00</td>
+		<td>0.420</td>
+		<td>0.222222</td>
+
+
+	</tr>
+	<tr>
+		<td>Aug-23</td>
+		<td>$1,050,000</td>
+		<td>$788,000</td>
+		<td>$262,000</td>
+		<td>0.24952381</td>
+		<td>1488</td>
+		<td>58</td>
+		<td>16</td>
+		<td>0.011065007</td>
+		<td>$13,586.21</td>
+		<td>42</td>
+		<td>40</td>
+		<td>103</td>
+		<td>$10,194.17</td>
+		<td>0.388</td>
+		<td>0.129032</td>
+
+	</tr>
+	<tr>
+		<td>Sep-23</td>
+		<td>$1,180,000</td>
+		<td>$885,000</td>
+		<td>$295,000</td>
+		<td>0.25</td>
+		<td>1546</td>
+		<td>70</td>
+		<td>12</td>
+		<td>0.008064516</td>
+		<td>$12,642.86</td>
+		<td>58</td>
+		<td>45</td>
+		<td>105</td>
+		<td>$11,238.10</td>
+		<td>$0.429</td>
+		<td>0.18</td>
+	</tr>
+	<tr>
+		<td>Oct-23</td>
+		<td>$1,220,000</td>
+		<td>$915,000</td>
+		<td>$305,000</td>
+		<td>0.25</td>
+		<td>1608</td>
+		<td>72</td>
+		<td>10</td>
+		<td>0.006468305</td>
+		<td>$12,708.33</td>
+		<td>62</td>
+		<td>47</td>
+		<td>108</td>
+		<td>$11,296.30</td>
+		<td>0.435</td>
+		<td>0.099099</td>
+	</tr>
+	<tr>
+		<td>Nov-23</td>
+		<td>$1,300,000</td>
+		<td>$975,000</td>
+		<td>$325,000</td>
+		<td>0.25</td>
+		<td>1678</td>
+		<td>78</td>
+		<td>8</td>
+		<td>0.004975124</td>
+		<td>$12,500.00</td>
+		<td>70</td>
+		<td>50</td>
+		<td>110</td>
+		<td>$11,818.18</td>
+		<td>0.455</td>
+		<td>0.181818</td>
+	</tr>
+	<tr>
+		<td>Dec-23</td>
+		<td>$1,400,000</td>
+		<td>$1,050,000</td>
+		<td>$350,000</td>
+		<td>0.25</td>
+		<td>1752</td>
+		<td>85</td>
+		<td>11</td>
+		<td>0.006555423</td>
+		<td>$12,352.94</td>
+		<td>74</td>
+		<td>55</td>
+		<td>115</td>
+		<td>$12,173.91</td>
+		<td>0.478</td>
+		<td>0.217391</td>
+	</tr>
+</table>
+</body>
+<html>
